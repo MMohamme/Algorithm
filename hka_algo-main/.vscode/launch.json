@@ -1,0 +1,56 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "BinarySearchTest",
+            "request": "launch",
+            "mainClass": "de.hska.iwi.ads.solution.search.BinarySearchTest",
+            "projectName": ""
+        },
+        {
+            "type": "java",
+            "name": "BinarySearch",
+            "request": "launch",
+            "mainClass": "de.hska.iwi.ads.solution.search.BinarySearch",
+            "projectName": ""
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch CollectionBeispiele",
+            "request": "launch",
+            "mainClass": "de.hska.iwi.ads.collection.CollectionBeispiele",
+            "projectName": "labor_beispiele"
+        },
+        {
+            "type": "java",
+            "name": "Launch Outer",
+            "request": "launch",
+            "mainClass": "de.hska.iwi.ads.nested.Outer",
+            "projectName": "labor_beispiele"
+        },
+        {
+            "type": "java",
+            "name": "Launch BinarySearchTree",
+            "request": "launch",
+            "mainClass": "de.hska.iwi.ads.solution.tree.BinarySearchTree",
+            "projectName": "labor_loesung"
+        },
+        {
+            "type": "java",
+            "name": "Launch Hashtable",
+            "request": "launch",
+            "mainClass": "hska.iwi.ads.solution.hashtable.Hashtable",
+            "projectName": "labor_loesung"
+        }
+    ]
+}
