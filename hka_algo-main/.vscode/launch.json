@@ -6,20 +6,6 @@
     "configurations": [
         {
             "type": "java",
-            "name": "BinarySearchTest",
-            "request": "launch",
-            "mainClass": "de.hska.iwi.ads.solution.search.BinarySearchTest",
-            "projectName": ""
-        },
-        {
-            "type": "java",
-            "name": "BinarySearch",
-            "request": "launch",
-            "mainClass": "de.hska.iwi.ads.solution.search.BinarySearch",
-            "projectName": ""
-        },
-        {
-            "type": "java",
             "name": "Launch Current File",
             "request": "launch",
             "mainClass": "${file}"
